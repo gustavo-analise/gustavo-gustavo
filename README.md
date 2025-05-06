@@ -31,7 +31,8 @@ Aqui estão alguns projetos que demonstram minhas habilidades e interesse na ár
     * Desenvolvimento de um sistema interativo utilizando **Python**, **SQLite** e **Streamlit** para gestão e **visualização de dados** sobre árvores e parques. Demonstra habilidades em **manipulação de dados (Pandas)**, **criação de gráficos (Matplotlib)** e **apresentação de resultados em um dashboard funcional**.
     * **[Veja a demonstração online aqui!](https://dashboard-nczgbr9nmpnqkjvs7mk2pn.streamlit.app/)**
 
--   **[Análise de Universidades da América do Norte (Dashboard)](https://github.com/gustavo-analise/Analise_universidades)** * Projeto de Análise Exploratória de Dados (EDA) com **Python (Pandas, Plotly Express)** e dashboard interativo em **Streamlit** para analisar dados de universidades dos EUA e Canadá, focando em custos, tamanho e tendências. Demonstra pipeline de limpeza e visualização interativa.
+-   **[Análise de Universidades da América do Norte (Dashboard)](https://github.com/gustavo-analise/Analise_universidades)**
+-   * Projeto de Análise Exploratória de Dados (EDA) com **Python (Pandas, Plotly Express)** e dashboard interativo em **Streamlit** para analisar dados de universidades dos EUA e Canadá, focando em custos, tamanho e tendências. Demonstra pipeline de limpeza e visualização interativa.
     * **[Veja a demonstração online aqui!](https://mpexpxu7fweqgknmhrpjge.streamlit.app/)** ```
 
 # Conecte-se Comigo:
