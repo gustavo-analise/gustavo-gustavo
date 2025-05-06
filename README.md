@@ -27,7 +27,7 @@ Aqui estão alguns projetos que demonstram minhas habilidades e interesse na ár
 -   **[CONE-O-SQLITE: Conexão SQLITE com Python](https://github.com/gustavo-analise/CONE-O-SQLITE)**
     * Projeto focado na **conexão e interação com banco de dados SQLite utilizando Python**. Demonstra habilidades em **SQL** para criação e manipulação de tabelas, estabelecimento de relações (`JOINs`), e uso de **Python** (`sqlite3`) para executar operações no banco de dados. Uma base sólida para extração de dados em projetos de análise.
  
--   **[Sistema de Gestão de Árvores e Parques (Dashboard)]([https://github.com/gustavo-analise/DASHBOARD])**
+-   **[Sistema de Gestão de Árvores e Parques Dashboard](https://github.com/gustavo-analise/DASHBOARD)**
     * Desenvolvimento de um sistema interativo utilizando **Python**, **SQLite** e **Streamlit** para gestão e **visualização de dados** sobre árvores e parques. Demonstra habilidades em **manipulação de dados (Pandas)**, **criação de gráficos (Matplotlib)** e **apresentação de resultados em um dashboard funcional**.
     * **[Veja a demonstração online aqui!](https://dashboard-nczgbr9nmpnqkjvs7mk2pn.streamlit.app/)**
 
