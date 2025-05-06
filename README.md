@@ -1,11 +1,24 @@
 # gustavo-gustavo
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gustavo;I'm+19+years+old;I'm+a+begginer+Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=4169E1&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gustavo;I'm+19+years+old;I'm+a+beginner+Data+Analyst)](https://git.io/typing-svg)
 <div align="left"> 
-Sobre mim:
-Sou estudante de Engenharia Da Computação. Tenho conhecimento académicos, onde explorei linguagens de programação como Python,Java e também em banco de dados
+  
+## Sobre Mim
 
+Estudante de **Engenharia da Computação** na Universidade Anhembi Morumbi, com grande entusiasmo e dedicação à área de **Análise de Dados**.
+
+Minha formação acadêmica me proporcionou uma base sólida em programação, com destaque para **Python**, e em conceitos de **banco de dados**. Atualmente, estou ativamente aprofundando minhas habilidades práticas em **manipulação, limpeza e visualização de dados** utilizando ferramentas como **Python (Pandas, Matplotlib, Seaborn)**, **SQL** e plataformas de **Business Intelligence (Microsoft Power BI, Excel)**.
+
+Busco uma oportunidade de **estágio como Analista de Dados** para aplicar meus conhecimentos, enfrentar desafios reais e contribuir com a geração de insights estratégicos.
+
+
+## Habilidades
+
+- Linguagens: Python 🐍, SQL
+- Bibliotecas para Dados: Pandas, Matplotlib, Seaborn
+- Ferramentas de BI: Microsoft Power BI, Excel
+- Conceitos: Análise Exploratória de Dados (EDA), Visualização de Dados, Limpeza de Dados
 # Conecte-se Comigo:
 
 
